@@ -1,0 +1,6 @@
+{
+  "name": "Sharda Medicity Hospital",
+  "description": "Premium multi-speciality hospital in Varanasi, India specializing in Neuro & Spinal Care, Emergency & Trauma, and advanced patient-centric medical healthcare.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
